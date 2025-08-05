@@ -81,7 +81,7 @@ header .navbar nav{
     max-width: 1100px;
     margin: auto;
     padding: 10px 20px;
-   /* background-color: rgb(16, 135, 135);*/
+   
 }
 
 #home #logo{
@@ -297,3 +297,6 @@ contact .row textarea{
     text-align: center;
 
 }
+ #contact h2{
+    color: white;
+ }
